@@ -67,7 +67,6 @@ Ensure you have the following installed:
     npm run dev
     ```
 
-   The app will be available at `http://localhost:3000`.
 
 ## 📸 Screenshot
 
